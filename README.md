@@ -1,8 +1,13 @@
-# React + Vite
+Web Application - TMDb API Integration
+Este é um site interativo desenvolvido com React e Node.js que integra a API do TMDb (The Movie Database), proporcionando uma experiência rica para explorar filmes e séries. Com uma interface moderna, o projeto exibe informações como títulos, resumos, classificações, trailers e imagens de filmes populares.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A aplicação utiliza React Icons para aprimorar a experiência do usuário com ícones dinâmicos e um design clean. Navegar por filmes nunca foi tão fácil!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Principais Funcionalidades:
+Exibição de Filmes Populares: Visualize os filmes mais populares do momento.
+Detalhes de Filmes e Séries: Acesse informações como sinopse, avaliações e imagens.
+Interface Intuitiva e Responsiva: Uma navegação fluida e otimizada para todos os dispositivos.
+Tecnologias Utilizadas:
+React: Para a construção da interface de usuário com componentes reutilizáveis.
+Node.js: Para a criação de um servidor back-end robusto.
+React Icons: Para melhorar a interface com ícones elegantes e funcionais.
