@@ -12,3 +12,6 @@ Tecnologias Utilizadas:
 React: Para a construção da interface de usuário com componentes reutilizáveis.
 Node.js: Para a criação de um servidor back-end robusto.
 React Icons: Para melhorar a interface com ícones elegantes e funcionais.
+
+Tela inicial contendo os filmes mais bem avaliados:
+![image](https://github.com/user-attachments/assets/7c2c00a8-6f1a-4e92-bf5f-7b09900e4a98)
