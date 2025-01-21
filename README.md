@@ -1,4 +1,5 @@
 Web Application - TMDb API Integration
+
 Este é um site interativo desenvolvido com React e Node.js que integra a API do TMDb (The Movie Database), proporcionando uma experiência rica para explorar filmes e séries. Com uma interface moderna, o projeto exibe informações como títulos, resumos, classificações, trailers e imagens de filmes populares.
 
 A aplicação utiliza React Icons para aprimorar a experiência do usuário com ícones dinâmicos e um design clean. Navegar por filmes nunca foi tão fácil!
